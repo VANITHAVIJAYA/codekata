@@ -1,5 +1,5 @@
 num=input("Enter the number:")
-f=1
+f1=1
 for i in range(1,num+1):
-  f=f*i
-print("factorial num is",f)
+  f1=f1*i
+print("factorial num is",f1)
